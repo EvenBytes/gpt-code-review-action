@@ -1,6 +1,6 @@
 # action.yaml
 name: "OpenAI Code review Github Action"
-author: Sagi (Sergey) Shnaidman (@sshnaidm)
+author: Evenbytes (forked from Sagi (Sergey) Shnaidman (@sshnaidm))
 description: "A Github Action that posts code review from OpenAI to pull request"
 inputs:
   github-token:
